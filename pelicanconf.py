@@ -8,6 +8,9 @@ SITEURL = ''
 
 PATH = 'content'
 
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['render_math']
+
 TIMEZONE = 'Europe/Helsinki'
 
 DEFAULT_LANG = 'en'
