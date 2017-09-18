@@ -5,11 +5,12 @@ from __future__ import unicode_literals
 AUTHOR = 'Kha Nguyen'
 SITENAME = 'Kha Nguyen'
 SITEURL = ''
+AUTHOR_EMAIL = 'nlhkha@gmail.com'
 
 PATH = 'content'
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['render_math']
+PLUGINS = ['render_math', 'gravatar']
 
 TIMEZONE = 'Europe/Helsinki'
 
@@ -24,9 +25,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Python.org', 'http://python.org/'),)
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/nlhkh'),
