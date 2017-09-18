@@ -3,7 +3,7 @@ Date: 2017-09-16 20:58
 Category: Entrepreneur
 Email:  nlhkha@gmail.com
 
-![This is me](http://www.gravatar.com/avatar/ab6875791f17d39ea33e09cdba38c1fa.jpg?s=512&r=g)
+![This is me](https://www.gravatar.com/avatar/ab6875791f17d39ea33e09cdba38c1fa.jpg?s=512&r=g)
 
 My name is Kha. I am a software engineer. For a long time I have always loved to listen to stories from other people. Everyone has an interesting story of his or her life to tell, regardless of that person is a homeless person or a wealthy businessman/businesswoman, given with the right storytelling approach. I noticed that when I am immersed in what the other person says, I need to use the bathroom more often than I normally would. No further explanation can be provided on this.
 
